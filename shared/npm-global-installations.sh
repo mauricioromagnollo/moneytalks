@@ -9,3 +9,4 @@ npm install -g expo-cli
 npm install -g react-native-cli 
 npm install -g nodemon
 npm install -g typescript
+npm install -g gatsby-cli
