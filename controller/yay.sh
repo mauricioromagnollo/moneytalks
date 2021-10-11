@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source "../utils/colorprint.sh"
+source "../helpers/colorprint.sh"
 
 function install-yay-package() {
   local package="$1"
