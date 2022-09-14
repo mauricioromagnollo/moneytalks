@@ -173,6 +173,18 @@ main
 # =======================================
 
 :<<'SCML'
+function install-dropbox() {
+
+}
+
+function install-insync() {
+
+}
+
+function install-mega() {
+  
+}
+
 function install-balena-etcher() {
 	curl -1sLf \
    'https://dl.cloudsmith.io/public/balena/etcher/setup.deb.sh' \
